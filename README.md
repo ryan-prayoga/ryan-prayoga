@@ -20,7 +20,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a backend-leaning generalist shipping **civic tech**, **developer tooling**, and the occasional **native macOS app**. Final-semester **Informatics @ BINUS Online Learning**, working on TA: **K-Means clustering with spatial features** over Indonesian government procurement data (LKPP).
+I'm a backend-leaning generalist shipping **civic tech**, **developer tooling**, and the occasional **native macOS app**. Final-semester **Informatics @ Pasundan Univeristy**, working on TA: **K-Means clustering with spatial features** over Indonesian government procurement data (LKPP).
 
 - 🏗️ **Backend** — Go (Fiber, pgx), Postgres + PostGIS, Redis, REST & SSE
 - 🎨 **Frontend** — SvelteKit, Svelte 5 runes, TypeScript, vanilla CSS
