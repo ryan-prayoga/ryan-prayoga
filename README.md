@@ -8,7 +8,7 @@
 
 **Backend-leaning generalist · Civic tech · Security-first developer**
 
-📍 Indonesia · 🎓 Informatics @ BINUS Online Learning · 🛠️ shipping openrowdb, jedug, messhub
+📍 Indonesia · 🎓 Informatics @ Pasundan University · 🛠️ shipping openrowdb, jedug, messhub
 
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/txtdrprogrammer)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ryan-prayoga)
